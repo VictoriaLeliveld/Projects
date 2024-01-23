@@ -1,0 +1,39 @@
+Red, Snowy, Happy, Christmas
+Blue, Rainy, Sad, Music Festival
+Green, Cloudy, Calm, Party
+Yellow, Sunny, Excited, Vacation
+Purple, Rainy, Calm, Formal Dinner
+Orange, Cloudy, Calm, Date Night
+Pink, Sunny, Happy, Vacation
+Brown, Rainy, Sad, Wedding
+Gray, Cloudy, Calm, Formal Dinner
+Teal, Sunny, Energetic, Music Festival
+White, Snowy, Peaceful, Wedding
+Black, Clear, Happy, Concert
+Gold, Sunny, Happy, Wedding
+Silver, Cloudy, Calm, Concert
+Turquoise, Sunny, Adventurous, Vacation
+Magenta, Rainy, Excited, Date Night
+Lime, Cloudy, Energetic, Music Festival
+Cyan, Sunny, Adventurous, Vacation
+Olive, Rainy, Sad, Formal Dinner
+Maroon, Cloudy, Peaceful, Anniversary
+Pastel Blue, Sunny, Calm, Vacation
+Sage Green, Clear, Calm, Christmas
+Lavender, Cloudy, Excited, Party
+Peach, Sunny, Happy, Date Night
+Coral Pink, Rainy, Excited, Shopping Day
+Mint Green, Snowy, Peaceful, Concert
+Ocean Blue, Clear, Peaceful, Vacation
+Champagne, Cloudy, Calm, Formal Dinner
+Lilac, Sunny, Excited, Party
+Rose Gold, Clear, Excited, Date Night
+Sunset Orange, Cloudy, Happy, Birthday
+Sky Blue, Snowy, Calm, Vacation
+Ivory, Sunny, Calm, Wedding
+Emerald Green, Rainy, Energetic, Christmas
+Tiffany Blue, Clear, Calm, Party
+Mustard Yellow, Cloudy, Energetic, Music Festival
+Aqua, Sunny, Happy, Birthday
+Charcoal Gray, Rainy, Sad, Anniversary
+Powder Pink, Snowy, Excited, Birthday
