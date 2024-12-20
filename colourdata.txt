@@ -10,6 +10,7 @@ Gray, Cloudy, Calm, Formal Dinner
 Teal, Sunny, Energetic, Music Festival
 White, Snowy, Peaceful, Wedding
 Black, Clear, Happy, Concert
+Black, Clear, Excited, Concert
 Gold, Sunny, Happy, Wedding
 Silver, Cloudy, Calm, Concert
 Turquoise, Sunny, Adventurous, Vacation
@@ -30,10 +31,97 @@ Lilac, Sunny, Excited, Party
 Rose Gold, Clear, Excited, Date Night
 Sunset Orange, Cloudy, Happy, Birthday
 Sky Blue, Snowy, Calm, Vacation
-Ivory, Sunny, Calm, Wedding
-Emerald Green, Rainy, Energetic, Christmas
 Tiffany Blue, Clear, Calm, Party
 Mustard Yellow, Cloudy, Energetic, Music Festival
 Aqua, Sunny, Happy, Birthday
 Charcoal Gray, Rainy, Sad, Anniversary
 Powder Pink, Snowy, Excited, Birthday
+Amber, Sunny, Energetic, Concert
+Crimson, Rainy, Excited, Wedding
+Periwinkle, Cloudy, Peaceful, Vacation
+Navy Blue, Clear, Calm, Music Festival
+Forest Green, Snowy, Adventurous, Christmas
+Burnt Orange, Sunny, Calm, Shopping Day
+Plum, Rainy, Sad, Anniversary
+Beige, Cloudy, Peaceful, Wedding
+Copper, Sunny, Happy, Formal Dinner
+Mint, Snowy, Excited, Party
+Ruby, Clear, Adventurous, Vacation
+Steel Blue, Rainy, Calm, Concert
+Blush Pink, Cloudy, Energetic, Music Festival
+Cream, Sunny, Calm, Birthday
+Mahogany, Rainy, Sad, Party
+Cerulean, Clear, Peaceful, Wedding
+Lemon Yellow, Sunny, Happy, Christmas
+Dusty Rose, Cloudy, Calm, Vacation
+Ash Gray, Snowy, Calm, Formal Dinner
+Teal Blue, Clear, Excited, Date Night
+Sand, Sunny, Peaceful, Shopping Day
+Fuchsia, Rainy, Energetic, Music Festival
+Midnight Blue, Cloudy, Adventurous, Concert
+Chartreuse, Clear, Calm, Anniversary
+Terracotta, Sunny, Excited, Wedding
+Ivory White, Cloudy, Happy, Party
+Emerald, Rainy, Adventurous, Birthday
+Cinnamon, Snowy, Calm, Christmas
+Coral, Clear, Happy, Vacation
+Honey, Sunny, Calm, Anniversary
+Obsidian, Rainy, Sad, Concert
+Slate Blue, Cloudy, Energetic, Shopping Day
+Seafoam, Sunny, Adventurous, Party
+Moss Green, Snowy, Calm, Wedding
+Brick Red, Rainy, Excited, Christmas
+Dove Gray, Clear, Peaceful, Formal Dinner
+Buttercup Yellow, Sunny, Energetic, Birthday
+Mulberry, Cloudy, Happy, Anniversary
+Lilac Blue, Snowy, Excited, Music Festival
+Cobalt, Clear, Adventurous, Party
+Mauve, Rainy, Calm, Vacation
+Pine Green, Cloudy, Sad, Date Night
+Amber Gold, Sunny, Happy, Concert
+Burgundy, Cloudy, Sad, Wedding  
+Denim Blue, Rainy, Adventurous, Vacation  
+Pistachio, Sunny, Calm, Formal Dinner  
+Taupe, Cloudy, Calm, Shopping Day  
+Canary Yellow, Sunny, Excited, Party  
+Raspberry, Rainy, Energetic, Concert  
+Alabaster, Clear, Adventurous, Wedding  
+Flamingo Pink, Snowy, Excited, Date Night  
+Ice Blue, Cloudy, Peaceful, Formal Dinner  
+Peridot, Clear, Sad, Anniversary  
+Saffron, Sunny, Adventurous, Wedding  
+Rust, Rainy, Calm, Vacation  
+Ivory Blush, Snowy, Calm, Party  
+Arctic Blue, Clear, Happy, Music Festival  
+Peacock Green, Cloudy, Sad, Concert  
+Wisteria, Sunny, Excited, Birthday  
+Dandelion, Rainy, Energetic, Shopping Day  
+Ash Lavender, Clear, Peaceful, Wedding  
+Clover Green, Snowy, Adventurous, Anniversary  
+Indigo, Rainy, Happy, Date Night  
+Holly Green, Snowy, Energetic, Christmas  
+Cerise, Sunny, Sad, Vacation  
+Tangerine, Clear, Adventurous, Birthday  
+Frost, Cloudy, Calm, Wedding  
+Topaz, Sunny, Excited, Music Festival  
+Copper Red, Rainy, Sad, Formal Dinner  
+Rose, Clear, Peaceful, Vacation  
+Charcoal, Rainy, Energetic, Concert  
+Pebble Gray, Cloudy, Calm, Date Night  
+Electric Blue, Clear, Happy, Party  
+Marigold, Sunny, Sad, Shopping Day  
+Honeydew, Rainy, Adventurous, Wedding  
+Lilac Mist, Snowy, Excited, Birthday  
+Onyx, Clear, Peaceful, Anniversary  
+Sapphire, Cloudy, Calm, Christmas  
+Moss, Rainy, Happy, Formal Dinner  
+Apricot, Sunny, Energetic, Vacation  
+Bubblegum Pink, Clear, Adventurous, Music Festival  
+Wintergreen, Snowy, Calm, Concert  
+Cherry Red, Cloudy, Happy, Shopping Day  
+Turmeric, Rainy, Sad, Birthday  
+Lunar Gray, Clear, Excited, Party  
+Rosewood, Sunny, Peaceful, Wedding
+Watermelon, Clear, Excited, Vacation
+Salmon, Clear, Peaceful, Shopping Day
+Army Green, Rainy, Calm, Formal Dinner
