@@ -20,11 +20,8 @@ def main():
 
     # Predefined lists for weather, mood, and events
     weather_options = ['Sunny', 'Rainy', 'Cloudy', 'Snowy', 'Clear']
-    mood_options = ['Happy', 'Sad', 'Excited', 'Calm', 
-                    'Energetic', 'Peaceful', 'Adventurous']
-    event_options = ['None', 'Birthday', 'Wedding', 'Concert',
-                     'Vacation', 'Music Festival', 'Party', 'Christmas', 'Anniversary',
-                     'Shopping Day', 'Formal Dinner', 'Date Night']
+    mood_options = ['Happy', 'Sad', 'Excited', 'Peaceful', 'Adventurous']
+    event_options = ['None', 'Birthday', 'Wedding', 'Concert', 'Vacation', 'Party', 'Anniversary', 'Shopping Day']
 
     # Prompt user to pick from the lists
     weather = get_user_choice("Pick the weather: ", weather_options)
